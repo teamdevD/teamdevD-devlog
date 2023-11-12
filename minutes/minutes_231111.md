@@ -1,4 +1,4 @@
-#23/11/11 Dチームミーティング
+# 23/11/11 Dチームミーティング
 <div style = 'text-align:right';>
     記録 keek
 </div>
