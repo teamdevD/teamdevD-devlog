@@ -58,7 +58,7 @@ Phaserの学習(勉強会)、要件定義、技術構成、ワイヤーフレー
 
 12/23(最終)
   12/9時点の完成度によってTBD。他のゲームを作るか、拡張するか。
-## deploy 環境を決める
+## deploy 環境
 - フロントエンドは Vercel
 - バックエンドは Google Cloud Run、AWS、Render など（あとで）
 
@@ -69,4 +69,6 @@ hard - 他プレイヤーとのスコアの競争、(cpu 頭いい)
 
 
 # 議事録関係
-- minutesに議事録を保存
+### minutesに議事録を保存
+
+- <a href="https://github.com/teamdevD/teamdevD-devlog/blob/main/minutes/minutes_231111.md">2023/11/11</a>
