@@ -68,7 +68,7 @@ medium - 他プレイヤーとのスコアの競争、(cpu)
 hard - 他プレイヤーとのスコアの競争、(cpu 頭いい)
 
 
-# 議事録関係
+## 議事録関係
 ### minutesに議事録を保存
 
 - <a href="https://github.com/teamdevD/teamdevD-devlog/blob/main/minutes/minutes_231111.md">2023/11/11</a>
