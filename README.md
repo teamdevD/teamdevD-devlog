@@ -7,6 +7,8 @@
 - 使用する CI (husky、github actions など）なし
 - Linter とコードフォーマッターの設定（eslint、prettier など）なし
 
+<img src='img/tech.png'>
+
 ## タスク管理
 
 - Trello(後日、設定 担当:COCO)
