@@ -1,11 +1,13 @@
 # アーキテクチャ関係
 
-# フローチャート
+## フローチャート
 
 
 
 
 
-# クラスアクティビティ図
+## クラスアクティビティ図
 
-<img src='img/classActivity.png'>
+<img src='img/classActivity01.png'>
+<img src='img/classActivity02.png'>
+<img src='img/classActivity03.png'>
