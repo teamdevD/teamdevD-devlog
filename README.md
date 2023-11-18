@@ -79,6 +79,8 @@
 
 
 ## アーキテクチャ関係
+- <a href="https://github.com/teamdevD/teamdevD-devlog/blob/main/checklist/flowchart.md">フローチャート</a>
+- <a href="https://github.com/teamdevD/teamdevD-devlog/blob/main/checklist/class-activity.md">クラスアクティビティ図</a>
 
 ## マイルストーン(スケジュール)
 以下を目標として開発を行う
