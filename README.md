@@ -68,6 +68,14 @@
 
 
 ## 技術要件
+- フロントエンド
+    - TypeScript + Phaser + Vite
+- バックエンド
+    - Node.js(デプロイのため)
+- デプロイ環境
+    - Vercel(GitHub pagesかも)
+
+<img src="./img/tech.png">
 
 
 ## マイルストーン(スケジュール)
@@ -90,8 +98,6 @@ GitHub，Gitの扱い方，issue，Trelloの扱い方のチュートリアル．
 
 **12/23(最終)**  
 12/9時点の完成度によってTBD。他のゲームを作るか、拡張するか。
-
-
 
 
 ## 議事録関係
