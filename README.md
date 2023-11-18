@@ -97,4 +97,7 @@ GitHub，Gitの扱い方，issue，Trelloの扱い方のチュートリアル．
 ## 議事録関係
 ### meeting-logに議事録を保存
 
+- <a href="https://github.com/teamdevD/teamdevD-devlog/blob/main/meeting-log/231111-log.md">2023/11/11</a>
+- <a href="https://github.com/teamdevD/teamdevD-devlog/blob/main/meeting-log/231115-log.md">2023/11/15</a>
+- <a href="https://github.com/teamdevD/teamdevD-devlog/blob/main/meeting-log/231118-log.md">2023/11/18</a>
 
