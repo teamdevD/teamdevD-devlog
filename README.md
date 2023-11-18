@@ -9,7 +9,7 @@
 
 <img src='img/tech.png'>
 
-## タスク管理
+## タスク管理法
 
 - Trello(後日、設定 担当:COCO)
 
