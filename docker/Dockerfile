@@ -9,6 +9,6 @@ RUN NODE_MAJOR=20 && echo "deb [signed-by=/etc/apt/keyrings/nodesource.gpg] http
 RUN sudo apt-get update 
 RUN sudo apt-get install nodejs -y 
 RUN sudo apt-get install -y git
-RUN cd ~ && npm init vite@latest my-project -- --template vanilla-ts
+RUN cd ~ && npm create vite@latest my-project -- --template vanilla-ts
 RUN cd ~/my-project && npm install typescript --save-dev
 RUN cd ~/my-project && npm install phaser --save
