@@ -81,6 +81,7 @@
 ## アーキテクチャ関係
 - <a href="https://github.com/teamdevD/teamdevD-devlog/blob/main/checklist/flowchart.md">フローチャート</a>
 - <a href="https://github.com/teamdevD/teamdevD-devlog/blob/main/checklist/class-activity.md">クラスアクティビティ図</a>
+- <a href="https://www.figma.com/file/mecx9liRG6UN2o9UmvnHZQ/CardGame?type=design&node-id=0%3A1&mode=design&t=GAjZQJPy6FAFSYPM-1">ワイヤーフレーム</a>
 
 ## 確認項目
 
