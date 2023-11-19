@@ -23,3 +23,21 @@ upstream        https://github.com/teamdevD/teamdevD-devlog.git (push)
 <a href="https://github.com/teamdevD/teamdevD-devlog/blob/main/checklist/trello-howto.md">trello-howto.md</a>
 
 ## ブランチの切り方
+
+<img src="https://cloudsmith.co.jp/blog/.assets/thumbnail/GitFlow-640wri.png">
+
+### 今回使用するブランチは以下のもととする
+- **master(main)**：リリース用のブランチ．ここでは作業しない．
+- **develop**：開発用のブランチ．コードが安定し，リリース準備できたらrelease
+へマージする．
+- **release**：基本的には安定したものをここに留める．リリース時にdevelop，mainにマージする．
+- **feature**：機能を追加ためのブランチ．developから分岐する．
+
+
+今回はhotfixはたぶん使わないはず．
+
+**具体的なコマンドはRecursionのgitを参考にする．**
+
+### ブランチ関係のルール
+- `git branch feature-issue01-ユーザ名`といったようにつける．
+- 開発にかかわるプルリクエストを出したときはdiscordで連絡，ほかのメンバーからの承認をもらう．ブランチを切ったときはそれも付け加える．(ex. 新しい○○ブランチを切って何々にかかわる追加をした)．もちろんプルリクエストでも確認するけど，これがあるとやりやすい．
