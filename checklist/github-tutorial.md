@@ -16,7 +16,7 @@ upstream        https://github.com/teamdevD/teamdevD-devlog.git (push)
 
 ## 大まかなイメージ(ブランチはのちほど説明)
 
-<img src="../img/git.png>
+<img src="../img/git.png">
 
 ## Github IssueとTrelloの連携
 <a href="https://github.com/teamdevD/teamdevD-devlog/blob/main/checklist/trello-howto.md">trello-howto.md</a>
