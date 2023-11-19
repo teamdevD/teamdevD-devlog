@@ -14,6 +14,7 @@ upstream        https://github.com/teamdevD/teamdevD-devlog.git (fetch)
 upstream        https://github.com/teamdevD/teamdevD-devlog.git (push)
 ```
 
+**注意：ここではdevlogリポジトリのリモートリポジトリ．ローカルリポジトリを作成している．開発ならworkspaceリポジトリに対して同様のことを行う．**
 ## 大まかなイメージ(ブランチはのちほど説明)
 
 <img src="../img/git.png">
