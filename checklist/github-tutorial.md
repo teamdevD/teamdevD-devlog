@@ -21,3 +21,4 @@ upstream        https://github.com/teamdevD/teamdevD-devlog.git (push)
 ## Github IssueとTrelloの連携
 <a href="https://github.com/teamdevD/teamdevD-devlog/blob/main/checklist/trello-howto.md">trello-howto.md</a>
 
+## ブランチの切り方
