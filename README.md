@@ -90,28 +90,28 @@
 ## マイルストーン(スケジュール)
 以下を目標として開発を行う
 
-**11/18**  
+**11/18**
 Phaserの学習(勉強会)、要件定義、技術構成、ワイヤーフレーム、クラスアクティビティ．
 
-**11/22**  
+**11/22**
 GitHub，Gitの扱い方，issue，Trelloの扱い方のチュートリアル．
 
-**11/25**   
+**11/25**
 (FE)基本画面、(BE)基本的なクラスの作成(カード、プレイヤー)
 
-**11/29**  
+**11/29**
 開発ラストスパート
 
-**12/9**      
+**12/9**
 ブラックジャック自体の完成(あくまでカードゲームとして遊べるくらい。)
 
-**12/23(最終)**  
+**12/23(最終)**
 12/9時点の完成度によってTBD。他のゲームを作るか、拡張するか。
 
 
 ## 進捗
 
-**11/11~11/18**  
+**11/11~11/18**
 - 要件定義，非機能要件がほぼ決定
 - 技術要件もほぼ決定
 - フローチャート，アクティビティ図の大枠作成完了(作成しながら適宜修正)
@@ -130,4 +130,4 @@ GitHub，Gitの扱い方，issue，Trelloの扱い方のチュートリアル．
 - <a href="https://github.com/teamdevD/teamdevD-devlog/blob/main/meeting-log/231111-log.md">2023/11/11</a>
 - <a href="https://github.com/teamdevD/teamdevD-devlog/blob/main/meeting-log/231115-log.md">2023/11/15</a>
 - <a href="https://github.com/teamdevD/teamdevD-devlog/blob/main/meeting-log/231118-log.md">2023/11/18</a>
-
+- <a href="https://github.com/teamdevD/teamdevD-devlog/blob/main/meeting-log/231126-log.md">2023/11/26</a>
