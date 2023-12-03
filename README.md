@@ -140,3 +140,4 @@ GitHub，Gitの扱い方，issue，Trelloの扱い方のチュートリアル．
 - <a href="https://github.com/teamdevD/teamdevD-devlog/blob/main/meeting-log/231115-log.md">2023/11/15</a>
 - <a href="https://github.com/teamdevD/teamdevD-devlog/blob/main/meeting-log/231118-log.md">2023/11/18</a>
 - <a href="https://github.com/teamdevD/teamdevD-devlog/blob/main/meeting-log/231126-log.md">2023/11/26</a>
+- <a href="https://github.com/teamdevD/teamdevD-devlog/blob/main/meeting-log/231203-log.md">2023/12/03</a>
